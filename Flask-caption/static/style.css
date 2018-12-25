@@ -1,0 +1,9 @@
+body {
+	background-image : url("opencv.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+li {
+	display: inline;
+}
